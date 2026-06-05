@@ -1,6 +1,6 @@
 # supervised_machine_learning
 
-Course materials for Supervised Machine Learning (CIMT College).
+Course materials for Supervised Machine Learning.
 
 ## Contents
 
