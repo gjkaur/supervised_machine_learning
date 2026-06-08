@@ -17,6 +17,8 @@ Each chapter has a **detailed README** that explains every topic from the book i
 
 **Suggested order:** Complete chapters 1 → 2 → 3 → 4 sequentially. Each chapter builds on the previous one.
 
+**Explore more on YouTube:** See [**YouTube Study Topics**](YouTube_Study_Topics.md) for a searchable list of topics to review with video tutorials.
+
 ---
 
 ## What Each Chapter Covers
